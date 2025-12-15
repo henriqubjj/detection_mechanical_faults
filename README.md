@@ -1,0 +1,1 @@
+# detection_mechanical_faults
