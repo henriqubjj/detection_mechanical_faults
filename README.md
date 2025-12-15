@@ -1,4 +1,4 @@
-# Resumo do Projeto: Detecção de Falhas Mecânicas com MAFAULDA
+# Detecção de Falhas Mecânicas com MAFAULDA
 
 ## Objetivo
 
